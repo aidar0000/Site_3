@@ -178,6 +178,9 @@ body{
 
 /* catalog */
 
+.catalog_wrapper{
+    margin-bottom: 50px;
+}
 .catalog_arrow_text{
     font-family: 'SF Pro Display';
     font-weight: 500;
@@ -271,3 +274,88 @@ body{
 
     margin-bottom: 15px;
 }
+
+/* model */
+
+.model_title_text{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-family: 'SF Pro Display';
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 76px;
+    text-transform: uppercase;
+    color: #161616;
+}
+.model_title{
+    margin-bottom: 30px;
+}
+.model_subtitle1{
+    display: grid;
+}
+.model_subtitle{
+    display: flex;
+    margin-top: 100px;
+}
+.model_sub_photo2{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-left: 50px;
+}
+.model_sub_photo{
+    margin-bottom: 50px;
+}
+.model_wrapper{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+/* apart */
+
+.apart_title_text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'SF Pro Display';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    color: #161616;
+}
+.apart_wrapper{
+    display: flex;
+    margin-bottom: 50px;
+}
+.apart_title_btn{
+    cursor: pointer;
+    background: none;
+    border: 1px solid #161616;
+    box-sizing: border-box;
+    padding: 21px 77px;
+    font-family: 'SF Pro Display';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #161616;
+}
+.apart_title_btn:hover{
+    box-shadow: 0 0 5px #161616;
+}
+.apart_subtitle{
+    display: grid;
+    margin-left: 300px;
+}
+.apart_subtitle_text{
+    width: 376px;
+    font-family: 'SF Pro Display';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #161616;
+}
+.apart_subtitle_photo{
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+/*  */
