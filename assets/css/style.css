@@ -344,7 +344,7 @@ body{
 }
 .apart_subtitle{
     display: grid;
-    margin-left: 300px;
+    margin-left: 400px;
 }
 .apart_subtitle_text{
     width: 376px;
@@ -358,4 +358,39 @@ body{
     margin-top: 50px;
     margin-bottom: 60px;
 }
-/*  */
+.apart_arrow{
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 490px;
+    margin-bottom: 100px;
+}
+
+/* soc */
+
+.soc_wrapper{
+    margin-bottom: 100px;
+}
+.soc_title_text{
+    font-family: 'SF Pro Display';
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 57px;
+    color: #161616;
+    margin-left: 420px;
+}
+.soc_title_text2{
+    margin-top: 30px;
+    font-family: 'SF Pro Display';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #161616;
+    margin-left: 420px;
+    margin-bottom: 40px;
+}
+.soc_icon{
+    margin-right: 30px;
+}
+.soc_icons{
+    margin-left: 450px;
+}
